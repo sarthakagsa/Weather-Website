@@ -11,6 +11,7 @@ npm start
 
 or,
 
-nodemon src/app.js -e js,hbs
+npm run dev
 
-
+To check the project the link is :
+https://weatherapp-nodecourse.herokuapp.com/
