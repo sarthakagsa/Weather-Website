@@ -1,7 +1,7 @@
 # Weather-Website
 Node course part.
 
-If copying the zip code the use:
+If copying the zip code then use:
 
 npm install
 
